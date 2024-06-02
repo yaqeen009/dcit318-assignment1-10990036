@@ -1,0 +1,15 @@
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/bin/Debug/net8.0/TicketPriceCalc
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/bin/Debug/net8.0/TicketPriceCalc.deps.json
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/bin/Debug/net8.0/TicketPriceCalc.runtimeconfig.json
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/bin/Debug/net8.0/TicketPriceCalc.dll
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/bin/Debug/net8.0/TicketPriceCalc.pdb
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/obj/Debug/net8.0/TicketPriceCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/obj/Debug/net8.0/TicketPriceCalc.AssemblyInfoInputs.cache
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/obj/Debug/net8.0/TicketPriceCalc.AssemblyInfo.cs
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/obj/Debug/net8.0/TicketPriceCalc.csproj.CoreCompileInputs.cache
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/obj/Debug/net8.0/TicketPriceCalc.sourcelink.json
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/obj/Debug/net8.0/TicketPriceCalc.dll
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/obj/Debug/net8.0/refint/TicketPriceCalc.dll
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/obj/Debug/net8.0/TicketPriceCalc.pdb
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/obj/Debug/net8.0/TicketPriceCalc.genruntimeconfig.cache
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TicketPriceCalc/obj/Debug/net8.0/ref/TicketPriceCalc.dll
