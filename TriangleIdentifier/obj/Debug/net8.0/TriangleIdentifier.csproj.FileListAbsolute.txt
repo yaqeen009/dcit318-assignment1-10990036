@@ -1,0 +1,15 @@
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/bin/Debug/net8.0/TriangleIdentifier
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/bin/Debug/net8.0/TriangleIdentifier.deps.json
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/bin/Debug/net8.0/TriangleIdentifier.runtimeconfig.json
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/bin/Debug/net8.0/TriangleIdentifier.dll
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/bin/Debug/net8.0/TriangleIdentifier.pdb
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/obj/Debug/net8.0/TriangleIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/obj/Debug/net8.0/TriangleIdentifier.AssemblyInfoInputs.cache
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/obj/Debug/net8.0/TriangleIdentifier.AssemblyInfo.cs
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/obj/Debug/net8.0/TriangleIdentifier.csproj.CoreCompileInputs.cache
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/obj/Debug/net8.0/TriangleIdentifier.sourcelink.json
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/obj/Debug/net8.0/TriangleIdentifier.dll
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/obj/Debug/net8.0/refint/TriangleIdentifier.dll
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/obj/Debug/net8.0/TriangleIdentifier.pdb
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/obj/Debug/net8.0/TriangleIdentifier.genruntimeconfig.cache
+/Users/yaqeens/Desktop/dev/projects/Studies/School/DCIT318/assignment 1/dcit318-assignment1-10990036/TriangleIdentifier/obj/Debug/net8.0/ref/TriangleIdentifier.dll
